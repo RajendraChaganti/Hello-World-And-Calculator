@@ -8,7 +8,7 @@ To write a C++ program that:
 - Takes two numbers from the user.
 - Performs and displays addition, subtraction, multiplication, and division.
 
-### Apparatus
+### Tools
 
 - Visual Studio Code (VS Code)
 - C++ Compiler (e.g., g++)
