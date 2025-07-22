@@ -21,4 +21,13 @@ int main() {
 
     return 0; // for sending back the value
 }
-
+/*
+Output
+Hello World
+Enter two numbers: 2
+3
+Addition: 5
+Subtraction: -1
+Multiplication: 6
+Division: 0.666667
+*/
